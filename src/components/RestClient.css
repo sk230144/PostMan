@@ -1,0 +1,53 @@
+/* RestClient.css */
+.rest-client-container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .rest-client-container h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .rest-client-container label {
+    margin-right: 10px;
+  }
+  
+  .rest-client-container input[type="text"],
+  .rest-client-container select,
+  .rest-client-container textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .rest-client-container button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .rest-client-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .rest-client-container pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* You can adjust these styles further as needed */
+  
